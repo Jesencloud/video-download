@@ -29,9 +29,7 @@ bash
 
 
 1. bash：python my_download.py
-
-
-<img width="1193" alt="截屏2025-06-27 16 36 20" src="https://github.com/user-attachments/assets/c71eaaec-099d-4591-9780-a9f1db4f8ac9" />
+<img width="1176" alt="截屏2025-06-27 17 05 12" src="https://github.com/user-attachments/assets/71f15cbe-9095-440c-971c-432c8eaa0432" />
 
 
 2. 结果会自动保存在一个以时间戳为单位的文件夹里。包含封面，视频简介，视频格式为.mp4。
