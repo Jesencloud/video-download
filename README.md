@@ -1,4 +1,4 @@
-                                     video-download
+video-download
 python script for download youtube, twitter and bilibili videos with covers and subtitles
 
 介绍
@@ -11,24 +11,24 @@ for mac pc
 
 bash
 
-1. brew install yt-dlp
+1.     brew install yt-dlp
 
-2. brew install jq
+2.     brew install jq
 
 脚本修改
 
 1. 查看是否使用了代理，可以在脚本里添加代理，修改自己的代理地址就行。
 
- DEFAULT_PROXY = "http://127.0.0.1:54890" # 默认代理
+       DEFAULT_PROXY = "http://127.0.0.1:54890" # 默认代理
 
 2. 添加网页cookie，浏览器中使用Get cookies.txt LOCALLY插件，下载并命令为cookies.txt，保存在和脚本同一目录下。
 
- COOKIES_FILE = "cookies.txt" # Cookies文件路径
+       COOKIES_FILE = "cookies.txt" # Cookies文件路径
 
 示例：
 
 
-1. bash： python my_download.py
+1. bash：python my_download.py
 
 
 <img width="1193" alt="截屏2025-06-27 16 36 20" src="https://github.com/user-attachments/assets/c71eaaec-099d-4591-9780-a9f1db4f8ac9" />
